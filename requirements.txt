@@ -1,0 +1,10 @@
+streamlit>=1.50
+numpy
+scipy
+soundfile
+pandas
+opencv-python-headless
+sherpa-onnx
+cryptography
+sqlalchemy>=2
+psycopg2-binary
